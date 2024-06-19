@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335726003888",
+    "project_id": "queue-apps-4e10b",
+    "storage_bucket": "queue-apps-4e10b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335726003888:android:ab2de08707db199ae39d75",
+        "android_client_info": {
+          "package_name": "com.example.android_tv_test_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGDkPodsONcjfA5n3Go6SHex5V7Lt2XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335726003888:android:4c75dc91100c4e45e39d75",
+        "android_client_info": {
+          "package_name": "com.example.queue_control_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGDkPodsONcjfA5n3Go6SHex5V7Lt2XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
